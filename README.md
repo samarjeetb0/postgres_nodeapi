@@ -1,3 +1,3 @@
 # postgres_nodeapi
 
-## This application to make connection with postgres sql
+## This application is to make connection with postgres sql
